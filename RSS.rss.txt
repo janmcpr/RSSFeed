@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Combined RSS Feeds</title>
+    <description>A combined RSS feed from various sources</description>
+    <link>https://example.com</link>
+    <!-- Newsrooms -->
+    <item>
+      <title>News | Alberta.ca</title>
+      <link>https://www.alberta.ca/rss/newsroom.cfm</link>
+    </item>
+    <item>
+      <title>BC Gov News</title>
+      <link>https://news.gov.bc.ca/rss/news-releases.xml</link>
+    </item>
+    <item>
+      <title>Province of Manitoba | News Releases</title>
+      <link>https://news.gov.mb.ca/news-releases.xml</link>
+    </item>
+    <item>
+      <title>New Brunswick Government News</title>
+      <link>https://www2.gnb.ca/content/gnb/en/news/news_release.html</link>
+    </item>
+    <item>
+      <title>Environment and Climate Change Archives - News Releases</title>
+      <link>https://www.gov.nl.ca/releases/environment-and-climate-change/</link>
+    </item>
+    <item>
+      <title>News | Mackenzie Valley Review Board and Provincial Newsroom</title>
+      <link>https://www.reviewboard.ca/news/</link>
+    </item>
+    <item>
+      <title>Environmental Assessment | Environmental Assessment | Nova Scotia Environment</title>
+      <link>https://novascotia.ca/news/search/?dept=environment</link>
+    </item>
+    <item>
+      <title>Announcements | Nunavut Impact Review Board</title>
+      <link>https://www.nirb.ca/news/</link>
+    </item>
+    <item>
+      <title>Recent News | Ontario Newsroom</title>
+      <link>https://news.ontario.ca/en/search?keywords=&entry_type=news</link>
+    </item>
+    <item>
+      <title>News | Government of Prince Edward Island</title>
+      <link>https://www.princeedwardisland.ca/en/news</link>
+    </item>
+    <item>
+      <title>Search for government news | Gouvernement du Québec</title>
+      <link>https://www.quebec.ca/en/search/site/news</link>
+    </item>
+    <item>
+      <title>News and Media | Government | Government of Saskatchewan</title>
+      <link>https://www.saskatchewan.ca/government/news-and-media</link>
+    </item>
+    <item>
+      <title>Latest News - YESAB - Yukon Environmental and Socio-economic Assessment Board</title>
+      <link>https://www.yesab.ca/news/</link>
+    </item>
+
+    <!-- Extra Sites -->
+    <item>
+      <title>Engage NL</title>
+      <link>https://engage.gov.nl.ca/</link>
+    </item>
+    <item>
+      <title>Registry | Environmental Impact Review Board</title>
+      <link>http://www.eirb.ca/registry/</link>
+    </item>
+    <item>
+      <title>Government of Yukon</title>
+      <link>https://twitter.com/yukongov</link>
+    </item>
+
+    <!-- Provincial Environment Social Media -->
+    <item>
+      <title>Alberta Environment</title>
+      <link>https://twitter.com/AB_Enviro</link>
+    </item>
+    <item>
+      <title>B.C. EAO</title>
+      <link>https://twitter.com/bc_eao</link>
+    </item>
+    <item>
+      <title>Manitoba Government</title>
+      <link>https://twitter.com/MBGov</link>
+    </item>
+    <item>
+      <title>Government of NB</title>
+      <link>https://twitter.com/Gov_NB</link>
+    </item>
+    <item>
+      <title>Environment and Climate Change</title>
+      <link>https://twitter.com/ECC_GovNL</link>
+    </item>
+    <item>
+      <title>Mackenzie Valley Review Board</title>
+      <link>https://twitter.com/MVReviewBoard</link>
+    </item>
+    <item>
+      <title>Nova Scotia Gov.</title>
+      <link>https://twitter.com/nsgov</link>
+    </item>
+    <item>
+      <title>Government of Nunavut</title>
+      <link>https://twitter.com/GOVofNUNAVUT</link>
+    </item>
+    <item>
+      <title>Environment Ontario</title>
+      <link>https://twitter.com/ONenvironment</link>
+    </item>
+    <item>
+      <title>Government of PEI</title>
+      <link>https://twitter.com/InfoPEI</link>
+    </item>
+    <item>
+      <title>Environnement Quebec</title>
+      <link>https://twitter.com/EnvironnementQc</link>
+    </item>
+    <item>
+      <title>Government of Saskatchewan</title>
+      <link>https://twitter.com/SKGov</link>
+    </item>
+    <item>
+      <title>Department of Environment</title>
+      <link>https://twitter.com/ENV_Yukon</link>
+    </item>
+
+    <!-- Minister's Social Media -->
+    <item>
+      <title>Rebecca Shulz</title>
+      <link>https://twitter.com/RebeccaKShulz</link>
+    </item>
+    <item>
+      <title>George Heyman</title>
+      <link>https://twitter.com/GeorgeHeyman</link>
+    </item>
+    <item>
+      <title>Tracy Schmidt Facebook Account</title>
+      <link>https://www.facebook.com/tracyschmidt</link>
+    </item>
+    <item>
+      <title>Bernard Davis</title>
+      <link>https://twitter.com/bernardjdavis</link>
+    </item>
+    <item>
+      <title>Jay MacDonald Facebook Account</title>
+      <link>https://www.facebook.com/jaymacdonald</link>
+    </item>
+    <item>
+      <title>Timothy Halman</title>
+      <link>https://twitter.com/TimothyHalman</link>
+    </item>
+    <item>
+      <title>Daniel Qavvik</title>
+      <link>https://twitter.com/DQavvikMinister</link>
+    </item>
+    <item>
+      <title>Andrea Khanjin</title>
+      <link>https://twitter.com/Andrea_Khanjin</link>
+    </item>
+    <item>
+      <title>Steven Myers</title>
+      <link>https://twitter.com/stevenmyersPC</link>
+    </item>
+    <item>
+      <title>Benoit Charette</title>
+      <link>https://twitter.com/
